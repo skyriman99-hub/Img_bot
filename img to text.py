@@ -5,7 +5,7 @@ from PIL import Image
 from subprocess import run
 
 # 1. جلب التوكن من إعدادات GitHub السرية
-TOKEN = os.getenv('8882371761:AAHUks1r2n-pg5qRUgZgKRaNwyZeR2bFKhU')
+TOKEN = os.getenv('BOT_TOKEN')
 bot = telebot.TeleBot(TOKEN)
 
 # 2. ⚠️ ضع معرف حسابك (User ID) هنا بدلاً من الرقم 123456789 (بدون علامات تنصيص)
