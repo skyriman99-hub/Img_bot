@@ -1,3 +1,4 @@
 pyTelegramBotAPI
 pytesseract
 Pillow
+pyTelegramBotAPI
